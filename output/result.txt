@@ -17,12 +17,10 @@ CCTV-6,http://222.95.92.12:4000/rtp/239.49.8.76:8000$1920x1080
 CCTV-7,http://14.135.72.70:8888/rtp/239.121.4.156:8920$1920x1080
 CCTV-8,http://14.135.72.70:8888/rtp/239.121.4.154:8908$1920x1080
 CCTV-9,http://14.135.72.70:8888/rtp/239.121.4.157:8926$1920x1080
-CCTV-9,http://118.79.7.143:6000/rtp/226.0.1.165:3093$1920x1080
 CCTV-11,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8$426x240
 CCTV-12,http://14.135.72.70:8888/rtp/239.121.4.12:8022$3840x2160
 CCTV-15,http://111.175.164.168:8888/rtp/239.69.1.155:10566$1920x1080
 卫视频道,#genre#
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$1920x1080
 湖南卫视,http://14.135.72.70:8888/rtp/239.121.4.114:8666$1920x1080
 北京卫视,http://14.135.72.70:8888/rtp/239.121.4.117:8684$1920x1080
 黑龙江卫视,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8$720x576
